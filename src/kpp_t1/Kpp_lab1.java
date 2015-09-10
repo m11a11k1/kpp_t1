@@ -12,6 +12,7 @@ import javafx.stage.*;
 import java.util.Random;
 import java.io.*;
 import java.nio.file.Files;
+import java.util.*;
 
 /**
  * основной класс для рассчетов и распределения действий
